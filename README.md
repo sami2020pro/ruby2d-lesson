@@ -1,5 +1,7 @@
 # ruby2dLesson
 
+# Ruby 2D on Linux
+
 # Install Ruby
 
 <b>Installing Ruby with package managers (e.g. apt, yum, pacman) can cause issues. We recommend using a Ruby version manager instead, like rbenv. Here’s how to set it up:</b>
