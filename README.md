@@ -48,3 +48,5 @@
 
 # How to run console 
 `ruby2d console file_name_console.rb`
+
+Enjoy ;)
