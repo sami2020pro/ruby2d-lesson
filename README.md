@@ -1,2 +1,3 @@
 # ruby2dLesson
-Not Be Completed
+# Install the ruby2d
+$ gem install ruby2d
