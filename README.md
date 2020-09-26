@@ -49,4 +49,7 @@
 # How to run console 
 `ruby2d console file_name_console.rb`
 
+# Native
+<b>Explained in the tutorials</b>
+
 Enjoy ;)
