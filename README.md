@@ -24,7 +24,7 @@
 
 # Install Packages
 
-Ruby 2D needs a few packages to tap into low-level graphics and hardware. Install the following for your Linux distribution.
+<b>Ruby 2D needs a few packages to tap into low-level graphics and hardware. Install the following for your Linux distribution.</b>
 
 *Ubuntu, Debian, and Mint*:
 `sudo apt install libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev libsdl2-ttf-dev`
