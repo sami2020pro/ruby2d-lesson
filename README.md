@@ -42,3 +42,6 @@
 
 # Install the Ruby2D
 `gem install ruby2d`
+
+# How to run code
+`ruby2d file_name.rb`
