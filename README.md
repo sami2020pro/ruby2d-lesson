@@ -1,14 +1,22 @@
 # ruby2dLesson
 
 # Install Ruby
-`git clone https://github.com/rbenv/rbenv.git ~/.rbenv`\n
+`git clone https://github.com/rbenv/rbenv.git ~/.rbenv`
+
 `git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build`
+
 `export PATH="$HOME/.rbenv/bin:$PATH"
- eval "$(rbenv init -)"`
+
+eval "$(rbenv init -)"`
+
 `source ~/.bashrc`
+
 `rbenv install 2.6.2
- rbenv global 2.6.2`
+
+rbenv global 2.6.2`
+
 `rbenv versions`
+
 `ruby -e "puts 'Hello Ruby'"`
 
 # Install Packages
