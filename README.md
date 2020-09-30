@@ -1,4 +1,4 @@
-# ruby2dLesson | Silicium
+# ruby2d-lesson | Silicium
 
 # Ruby 2D on Linux
 
