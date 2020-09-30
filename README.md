@@ -1,6 +1,8 @@
 # ruby2d-lesson | Silicium
+ruby2d lessons
 
-# Ruby 2D on Linux
+# Ruby 2D on Gnu/Linux
+install on gnu linux distros
 
 # Install Ruby
 
